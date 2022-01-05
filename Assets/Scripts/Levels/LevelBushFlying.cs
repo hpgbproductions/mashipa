@@ -30,7 +30,7 @@ VerticalG (+0.2 to +2.0) x1000
 PitchAngle (-20 to +20) x1000
 RollAngle (-30 to +30) x1000";
 
-    private static readonly string LevelGameObject = "LevelBushFlying";
+    private static readonly string LevelGameObject = "KiramaLevelBushFlying";
 
     public LevelBushFlying()
         : base(Name, LevelDescription, LevelGameObject)

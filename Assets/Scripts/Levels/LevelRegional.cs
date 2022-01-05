@@ -30,7 +30,7 @@ VerticalG (+0.8 to +1.4) x2000
 PitchAngle (-20 to +10) x1000
 RollAngle (-30 to +30) x1000";
 
-    private static readonly string LevelGameObject = "LevelRegional";
+    private static readonly string LevelGameObject = "KiramaLevelRegional";
 
     public LevelRegional()
         : base(Name, LevelDescription, LevelGameObject)
